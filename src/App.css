@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@keyframes animateSideways1 {
+	0%,
+	100% {
+		transform: translateX(-15px);
+	}
+	50% {
+		transform: translateX(0px);
+	}
+}
+.animate-oneWay1 {
+	animation: animateSideways1 2s ease-in-out infinite;
+}
+@keyframes animateSideways2 {
+	0%,
+	100% {
+		transform: translateY(-10px);
+	}
+	50% {
+		transform: translateY(10px);
+	}
+}
+.animate-oneWay2 {
+	animation: animateSideways2 2s ease-in-out infinite;
+}
+#scrollable-container::-webkit-scrollbar {
+	display: none;
+}
