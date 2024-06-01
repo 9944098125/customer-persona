@@ -9,7 +9,7 @@ export const dummyCustomers: Customer[] = [
 		address: "123 Main St, Anytown, USA",
 		dateOfBirth: "1990-01-01",
 		profilePicture:
-			"https://thumbs.dreamstime.com/b/open-friendly-business-woman-blue-official-suit-stands-her-hands-pockets-white-smiling-wear-pantsuit-background-187468544.jpg",
+			"https://media.istockphoto.com/id/1293444908/photo/confident-female-politician-against-american-flag.jpg?s=612x612&w=0&k=20&c=L3Mb3IFI5uhgFI8FbFPZVwfQjE1_poI3EW2hzB07z_k=",
 		salesHistory: [
 			{
 				productName: "Product 1",
@@ -54,7 +54,7 @@ export const dummyCustomers: Customer[] = [
 		address: "123 Main St, Anytown, USA",
 		dateOfBirth: "1990-01-01",
 		profilePicture:
-			"https://thumbs.dreamstime.com/b/young-adult-woman-beige-business-casual-pantsuit-sneakers-sits-squatted-smiling-stylish-female-wear-smart-slyly-over-light-218419880.jpg",
+			"https://img.freepik.com/premium-photo/stunning-portrait-businessperson-with-official-attire_884630-3103.jpg",
 		salesHistory: [
 			{
 				productName: "Product 1",
@@ -144,7 +144,7 @@ export const dummyCustomers: Customer[] = [
 		address: "123 Main St, Anytown, USA",
 		dateOfBirth: "1990-01-01",
 		profilePicture:
-			"https://thumbs.dreamstime.com/b/focused-business-woman-blue-official-pantsuit-formal-wear-sitting-black-laptop-wooden-armchair-looks-something-185604878.jpg",
+			"https://t3.ftcdn.net/jpg/06/54/78/10/360_F_654781076_3N6A76rZdBvjbqiIAr0lkrRpoxxwW1jB.jpg",
 		salesHistory: [
 			{
 				productName: "Product 1",
@@ -189,7 +189,7 @@ export const dummyCustomers: Customer[] = [
 		address: "123 Main St, Anytown, USA",
 		dateOfBirth: "1990-01-01",
 		profilePicture:
-			"https://thumbs.dreamstime.com/b/young-business-woman-blue-official-suit-sits-armchair-sideways-looks-interest-pineapple-holds-young-stylish-185600685.jpg",
+			"https://t4.ftcdn.net/jpg/04/17/35/77/360_F_417357764_9M4EAbThf0relVqWcrfi54w2JcwH3RR3.jpg",
 		salesHistory: [
 			{
 				productName: "Product 1",
@@ -234,7 +234,7 @@ export const dummyCustomers: Customer[] = [
 		address: "123 Main St, Anytown, USA",
 		dateOfBirth: "1990-01-01",
 		profilePicture:
-			"https://thumbs.dreamstime.com/b/happy-woman-brunette-white-stylish-jacket-sits-poses-modern-oval-chair-laughs-red-smiling-laughing-woman-sexy-186920257.jpg",
+			"https://media.istockphoto.com/id/1473968774/photo/portrait-of-successful-businessman-in-office-man-in-shirt-smiling-and-looking-at-camera.jpg?s=612x612&w=0&k=20&c=MMKkbVA8bSPqmWbl5T31MLJofWSdOvwetkmi4kT5G7U=",
 		salesHistory: [
 			{
 				productName: "Product 1",

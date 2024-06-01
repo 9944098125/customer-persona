@@ -33,7 +33,7 @@ const Customer360View: React.FC = () => {
 							<img
 								src={customer.profilePicture}
 								alt=""
-								style={{ height: "100px", width: "100px", borderRadius: "50%" }}
+								style={{ height: "150px", width: "150px", borderRadius: "50%" }}
 							/>
 						</div>
 					))}
